@@ -24,54 +24,9 @@
   ],
   "requests": [
     {
-      "name": "puzzles",
-      "phone": "37623155",
+      "name": "Test",
+      "phone": "123456789",
       "id": 1
-    },
-    {
-      "name": "puzzles",
-      "phone": "37623155",
-      "id": 2
-    },
-    {
-      "name": "puzzles",
-      "phone": "+37067683531",
-      "id": 3
-    },
-    {
-      "name": "puzzles",
-      "phone": "37623155",
-      "id": 4
-    },
-    {
-      "name": "puzzles",
-      "phone": "37623155",
-      "id": 5
-    },
-    {
-      "name": "puzzles",
-      "phone": "37623155",
-      "id": 6
-    },
-    {
-      "name": "puzzles",
-      "phone": "37623155",
-      "id": 7
-    },
-    {
-      "name": "puzzles",
-      "phone": "37623155",
-      "id": 8
-    },
-    {
-      "name": "sdfdsf",
-      "phone": "8486145f",
-      "id": 9
-    },
-    {
-      "name": "ShitHappens",
-      "phone": "376258789",
-      "id": 10
     }
   ]
 }
